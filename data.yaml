@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['license plate']
+
+roboflow:
+  workspace: license-plate-detection-ycxte
+  project: license-plate-detection-jfcxr
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/license-plate-detection-ycxte/license-plate-detection-jfcxr/dataset/1
