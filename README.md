@@ -6,7 +6,7 @@ Training Jupyter Notebook for our YOLOv8 License Plate object detection model.
 - Dataset: [Car License Plate Detection](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection?rvi=1) on Kaggle
 - Dataset loaded with 
 - 50 Epochs of training
-- Additional information is provided in the `data.yaml` file
+- Additional information is provided in the [`data.yaml`](./data.yaml) file
 
 # Additional Information
 This Jupyter notebook contains the dataloading, training, results output, and export logic for our YOLOv8 License Plate object detection model for our SensorStop unit. Sample label and prediction images are provided in the notebook.  
